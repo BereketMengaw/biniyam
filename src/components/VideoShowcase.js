@@ -6,7 +6,6 @@ title: "Beaverton 5 Bed rooms and 4 Bathrooms",
 description: "Home Interior Showcase video edit for real estate content",
     url: "https://youtube.com/shorts/YI7NuySmNz0",
   },
- 
   {
     title: "Home Interior Tour",
     description: "Real Estate video edit for a real estate youtube channel",

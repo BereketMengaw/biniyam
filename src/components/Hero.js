@@ -25,7 +25,7 @@ const Hero = () => {
             Creative Video Editor <span className="text-cyan-300">|</span> Storytelling Through Motion
           </p>
           <p className="text-lg md:text-xl max-w-xl mb-8 text-cyan-100">
-            I'm a passionate video editor who brings stories to life with rhythm, pacing, and visuals that resonate. With experience in <span className="font-semibold text-cyan-200">Adobe Premiere Pro</span>, <span className="font-semibold text-cyan-200">After Effects</span>, and more, I turn raw footage into stunning narratives.
+            I'm a passionate video editor who brings stories to life with rhythm, pacing, and visuals that resonate. With experience in <span className="font-semibold text-cyan-200">Adobe Premiere Pro</span>, <span className="font-semibold text-cyan-200">After Effects</span>, <span className="font-semibold text-cyan-200">Davinci resolve</span>, and more, I turn raw footage into stunning narratives.
           </p>
           {/* Call to Action Button */}
           <a

@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 
 const videos = [
    {
-title: "Home Interior Showcase",
-description: "video edit for real estate content",
+title: "Beaverton 5 Bed rooms and 4 Bathrooms",
+description: "Home Interior Showcase video edit for real estate content",
     url: "https://youtube.com/shorts/YI7NuySmNz0",
   },
  
@@ -22,7 +22,11 @@ description: "video edit for real estate content",
     description: "video for a celebrity niche youtube channel",
     url: "https://www.youtube.com/embed/Elz4q-lQ21k",
   },
-
+  {
+    title: "Rim of the world",
+description: "Video edit for a Movie recap youtube channel",
+    url: "https://youtu.be/Gs3N6NfSiIA",
+  }
   {
     title: "Educational site video",
 description: "Video edit for a Educational content website user instructions",

@@ -11,7 +11,7 @@ const Hero = () => {
         {/* Profile Image with Glow and Ring */}
         <div className="relative group">
           <img
-            src="/pp.jpg"
+            src="/PP.jpg"
             alt="Profile"
             className="w-44 h-44 md:w-56 md:h-56 rounded-full border-4 border-white shadow-2xl ring-4 ring-cyan-400 ring-offset-4 ring-offset-teal-900 transition duration-500 group-hover:scale-105"
           />

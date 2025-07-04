@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 
 const videos = [
-  {
-    title: "Cooking guide video",
-    description: "a video for cooking youtube channel showing how to prepare sour dough",
-    url: "https://www.youtube.com/embed/v1HXyZjrO6Y",
+   {
+title: "Home Interior Showcase",
+description: "video edit for real estate content",
+    url: "https://youtube.com/shorts/YI7NuySmNz0",
   },
+ 
   {
     title: "Home Interior Tour",
     description: "Real Estate video edit for a real estate youtube channel",
@@ -21,11 +22,7 @@ const videos = [
     description: "video for a celebrity niche youtube channel",
     url: "https://www.youtube.com/embed/Elz4q-lQ21k",
   },
-  {
-    title: "Sample talking-head video",
-    description: "Sample video edit of a documentary form talking-head content",
-    url: "https://www.youtube.com/embed/KcySivsRWYI",
-  },
+
   {
     title: "Educational site video",
 description: "Video edit for a Educational content website user instructions",

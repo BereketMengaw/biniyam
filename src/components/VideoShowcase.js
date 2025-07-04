@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
 const videos = [
-   {
-title: "Beaverton 5 Bed rooms and 4 Bathrooms",
-description: "Home Interior Showcase video edit for real estate content",
+  {
+    title: "Beaverton 5 Bed rooms and 4 Bathrooms",
+    description: "Home Interior Showcase video edit for real estate content",
     url: "https://youtube.com/shorts/YI7NuySmNz0",
   },
   {
@@ -18,20 +18,21 @@ description: "Home Interior Showcase video edit for real estate content",
   },
   {
     title: "Celebrity news video",
-    description: "video for a celebrity niche youtube channel",
+    description: "Video for a celebrity niche youtube channel",
     url: "https://www.youtube.com/embed/Elz4q-lQ21k",
   },
   {
     title: "Rim of the world",
-description: "Video edit for a Movie recap youtube channel",
+    description: "Video edit for a Movie recap youtube channel",
     url: "https://youtu.be/Gs3N6NfSiIA",
-  }
+  },
   {
     title: "Educational site video",
-description: "Video edit for a Educational content website user instructions",
+    description: "Video edit for a Educational content website user instructions",
     url: "https://www.youtube.com/embed/kBIw6wKhdjM",
   }
 ];
+
 
 const VideoShowcase = () => {
   const [modalOpen, setModalOpen] = useState(false);

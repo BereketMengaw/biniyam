@@ -4,7 +4,7 @@ const videos = [
   {
     title: "Beaverton 5 Bed rooms and 4 Bathrooms",
     description: "Home Interior Showcase video edit for real estate content",
-    url: "https://youtube.com/shorts/YI7NuySmNz0",
+    url: "https://www.youtube.com/embed/YI7NuySmNz0",
   },
   {
     title: "Home Interior Tour",
@@ -18,20 +18,26 @@ const videos = [
   },
   {
     title: "Celebrity news video",
-    description: "Video for a celebrity niche youtube channel",
+    description: "video for a celebrity niche youtube channel",
     url: "https://www.youtube.com/embed/Elz4q-lQ21k",
   },
   {
     title: "Rim of the world",
     description: "Video edit for a Movie recap youtube channel",
-    url: "https://youtu.be/Gs3N6NfSiIA",
+    url: "https://www.youtube.com/embed/Gs3N6NfSiIA",
   },
   {
     title: "Educational site video",
     description: "Video edit for a Educational content website user instructions",
     url: "https://www.youtube.com/embed/kBIw6wKhdjM",
-  }
+  },
+  {
+    title: "Hyatt Civa Cap Cana",
+    description: "Video edit for a youtube channel",
+    url: "https://www.youtube.com/embed/lNBNYvS5ybI",
+  },
 ];
+
 
 
 const VideoShowcase = () => {
